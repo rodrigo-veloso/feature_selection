@@ -6,7 +6,7 @@ st.write("""# Feature Selection Examples""")
 st.write("""### Examples of feature selection using the hermione framework from A3Data""")
 st.write("""### https://github.com/A3Data/hermione""")
 
-st.image('vertical_logo.png')
+st.image('vertical_logo.png', width = 600)
 
 st.write("""## Import:""")
 
