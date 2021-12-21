@@ -9,3 +9,4 @@ scikit-learn==0.24
 mlxtend
 skfeature-chappers
 seaborn
+tensorflow
